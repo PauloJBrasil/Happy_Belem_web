@@ -1,3 +1,3 @@
-## Aplicação para encontrar orfanatos em Belém do Pará
+# Aplicação para encontrar orfanatos em Belém do Pará
 
-# É possível adicionar orfanatos caso não esteja na aplicação
+## É possível adicionar orfanatos caso não esteja na aplicação
